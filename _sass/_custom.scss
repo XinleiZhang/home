@@ -1,0 +1,40 @@
+/* Custom publications page styling */
+
+/* Year headers - large and prominent */
+.publications-year-header {
+  font-size: 2rem !important;
+  font-weight: 700 !important;
+  color: #1a1a2e !important;
+  margin-top: 2rem !important;
+  margin-bottom: 0.8rem !important;
+  padding-bottom: 0.3rem !important;
+  border-bottom: 2px solid #333 !important;
+}
+
+/* Category section headers */
+.publications-category-header {
+  font-size: 1.4rem !important;
+  font-weight: 600 !important;
+  color: #494e62 !important;
+  margin-top: 2.5rem !important;
+  margin-bottom: 1rem !important;
+  padding-bottom: 0.2rem !important;
+  border-bottom: 1px solid #ccc !important;
+}
+
+/* Shrink publication entries */
+.archive__item {
+  font-size: 0.85rem !important;
+}
+.archive__item .archive__item-title {
+  font-size: 0.95rem !important;
+  font-weight: 500 !important;
+  margin-bottom: 0.2rem !important;
+}
+.archive__item .archive__item-title a {
+  font-size: 0.95rem !important;
+}
+.archive__item p {
+  font-size: 0.8rem !important;
+  margin-bottom: 0.3rem !important;
+}
