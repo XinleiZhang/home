@@ -43,3 +43,12 @@
 .page__content {
   padding-bottom: 4rem !important;
 }
+
+/* Make footer flow normally instead of fixed to screen bottom */
+.page__footer {
+  position: relative !important;
+  bottom: auto !important;
+}
+body {
+  padding-bottom: 0 !important;
+}
